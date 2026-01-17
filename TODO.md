@@ -1,0 +1,2 @@
+- [x] Update pages/api/stripe.js: Change process.env.NEXT_PUBLIC_STRIPE_SECRET_KEY to process.env.STRIPE_SECRET_KEY
+- [x] Update components/Cart.jsx: Change stripe.redirectToCheckout({ sessionId: data.id }) to stripe.redirectToCheckout(data.id) and fix response.statusCode to response.status
