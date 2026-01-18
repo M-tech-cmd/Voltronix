@@ -146,3 +146,10 @@ Voltronix is optimized for deployment on platforms such as:
 
 **M-tech-cmd**
 Full-Stack Developer | React • Next.js • E-Commerce • SaaS
+
+![image alt](https://github.com/M-tech-cmd/Voltronix/blob/main/public/img/preview1.png)
+![image alt](https://github.com/M-tech-cmd/Voltronix/blob/main/public/img/preview2.png)
+![image alt](https://github.com/M-tech-cmd/Voltronix/blob/main/public/img/preview3.png)
+![image alt](https://github.com/M-tech-cmd/Voltronix/blob/main/public/img/preview4.png)
+![image alt](https://github.com/M-tech-cmd/Voltronix/blob/main/public/img/preview5.png)
+![image alt](https://github.com/M-tech-cmd/Voltronix/blob/main/public/img/preview6.png)
