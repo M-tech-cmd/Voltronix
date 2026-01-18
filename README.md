@@ -1,156 +1,148 @@
-⚡ Voltronix — Modern Full-Stack E-Commerce Platform
+**Voltronix** is a production‑ready full‑stack e‑commerce application built with **React, Next.js, Stripe, and Sanity**.
 
-Voltronix is a modern, production-ready full-stack e-commerce application built with React, Next.js, Stripe, and Sanity.It delivers a polished shopping experience with smooth animations, real payments, dynamic product management, and a scalable architecture suitable for real-world businesses.
+It delivers a polished shopping experience with smooth animations, secure real‑world payments, dynamic product management, and a scalable architecture suitable for modern online businesses.
 
-Designed with best practices, performance, and maintainability in mind, Voltronix demonstrates how to build a complete e-commerce system from frontend UI to secure checkout and content management.
+Designed with performance, maintainability, and best practices in mind, Voltronix demonstrates how to build a complete e‑commerce system—from storefront UI to secure checkout and content management.
 
-🚀 Overview
+---
+
+## 🚀 Overview
 
 Voltronix provides everything required for a modern online store:
 
-A responsive, animated storefront
-
-Dynamic product creation and editing via a headless CMS
-
-Advanced cart and checkout flow
-
-Secure, real Stripe payments
-
-Scalable state and data management
+* A responsive, animated storefront
+* Dynamic product creation and editing via a headless CMS
+* Advanced cart and checkout flow
+* Secure, real Stripe payments
+* Scalable state and data management
 
 This project is ideal as:
 
-A portfolio-grade full-stack project
+* A **portfolio-grade full-stack project**
+* A **starter template** for real e-commerce products
+* A **learning reference** for modern React & Next.js patterns
 
-A starter template for real e-commerce products
+---
 
-A learning reference for modern React & Next.js patterns
+## ✨ Key Features
 
-✨ Key Features
+### 🛍️ E-Commerce Core
 
-🛍️ E-Commerce Core
+* Product listings with rich details
+* Advanced cart functionality
+* Real-time cart updates
+* Fully integrated checkout flow
 
-Product listings with rich details
+### 💳 Payments
 
-Advanced cart functionality
+* Complete **Stripe integration**
+* Product pricing & checkout sessions
+* Secure real payments
+* Shipping rates & order handling
 
-Real-time cart updates
+### 🧠 Content Management
 
-Fully integrated checkout flow
+* **Sanity CMS** for managing:
 
-💳 Payments
+  * Products
+  * Images
+  * Descriptions
+  * Pricing data
+* Edit and publish content without redeploying the app
 
-Complete Stripe integration
+### 🎨 UI & UX
 
-Product pricing & checkout sessions
+* Modern, responsive design
+* Smooth animations and transitions
+* Mobile-first layout
+* Clean component-driven architecture
 
-Secure real payments
+---
 
-Shipping rates & order handling
+## 🧱 Tech Stack
 
-🧠 Content Management
+* **Frontend:** React.js
+* **Framework:** Next.js
+* **Styling:** Modern CSS / Animations
+* **State Management:** React Context API
+* **CMS:** Sanity
+* **Payments:** Stripe
+* **Rendering:** Server-Side Rendering (SSR) & Static Generation (SSG)
 
-Sanity CMS for managing:
+---
 
-Products
+## 🧠 Best Practices Implemented
 
-Images
+* 📁 Scalable folder & file structure
+* 🧩 Reusable and composable components
+* 🪝 Advanced React hooks & refs usage
+* 🗂️ Centralized global state with Context API
+* ⚡ Optimized data fetching with Next.js
+* 🔐 Secure checkout and payment handling
 
-Descriptions
+---
 
-Pricing data
+## 🤸 Quick Start
 
-Edit and publish content without redeploying the app
-
-🎨 UI & UX
-
-Modern, responsive design
-
-Smooth animations and transitions
-
-Mobile-first layout
-
-Clean component-driven architecture
-
-🧱 Tech Stack
-
-Frontend: React.js
-
-Framework: Next.js
-
-Styling: Modern CSS / Animations
-
-State Management: React Context API
-
-CMS: Sanity
-
-Payments: Stripe
-
-Rendering: Server-Side Rendering (SSR) & Static Generation (SSG)
-
-🧠 Best Practices Implemented
-
-📁 Scalable folder & file structure
-
-🧩 Reusable and composable components
-
-🪝 Advanced React hooks & refs usage
-
-🗂️ Centralized global state with Context API
-
-⚡ Optimized data fetching with Next.js
-
-🔐 Secure checkout and payment handling
-
-🤸 Quick Start
-
-Prerequisites
+### Prerequisites
 
 Ensure you have the following installed:
 
-Node.js (18+)
+* Node.js (18+)
+* npm / pnpm / yarn
+* Git
 
-npm / pnpm / yarn
+---
 
-Git
+### Clone the Repository
 
-Clone the Repository
-
+```
 git clone https://github.com/M-tech-cmd/Voltronix.git
 
+```
 
-Install Dependencies
+---
 
+### Install Dependencies
+
+```
 npm install
 
+```
 
-Run the Development Server
+---
 
+### Run the Development Server
+
+```
 npm run dev
 
+```
 
-Open http://localhost:3000 in your browser.
+Open [**http://localhost:3000**](http://localhost:3000) in your browser.
 
-🧪 What This Project Demonstrates
+---
 
-Building a real payment-ready e-commerce app
+## 🧪 What This Project Demonstrates
 
-Managing products dynamically with a headless CMS
+* Building a **real payment-ready e-commerce app**
+* Managing products dynamically with a headless CMS
+* Implementing Stripe checkout end-to-end
+* Structuring a scalable React + Next.js codebase
+* Applying production-grade frontend patterns
 
-Implementing Stripe checkout end-to-end
+---
 
-Structuring a scalable React + Next.js codebase
-
-Applying production-grade frontend patterns
-
-🚀 Deployment
+## 🚀 Deployment
 
 Voltronix is optimized for deployment on platforms such as:
 
-Vercel (recommended)
+* **Vercel** (recommended)
+* Netlify
 
-Netlify
+---
 
-👨‍💻 Author
+## 👨‍💻 Author
 
-M-tech-cmdFull-Stack Developer | React • Next.js • E-Commerce • SaaS
+**M-tech-cmd**
+Full-Stack Developer | React • Next.js • E-Commerce • SaaS
